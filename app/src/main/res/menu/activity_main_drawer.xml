@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:checkableBehavior="single"
+        android:title="MENU">
+        <menu>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="About" />
+
+        </menu>
+    </item>
+
+    <item
+        android:title="Support">
+    <menu>
+
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Contact us"/>
+        <item
+            android:id="@+id/item4"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Improve us"/>
+
+    </menu>
+    </item>
+    <item
+        android:title="Developers">
+        <menu>
+
+        <item
+            android:id="@+id/item1"
+
+            android:title="Rahul Dange"/>
+        <item
+            android:id="@+id/item2"
+
+            android:title="Roman Thapa"/>
+
+    </menu>
+</item>
+
+</menu>

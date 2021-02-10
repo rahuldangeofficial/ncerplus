@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NCER+</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NCER+</string>
+    <string name="nav_header_subtitle">Version 1.0</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_back">Back</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="download_info">Downloading.</string>
+    <string name="about_title">About NCER+</string>
+    <string name="about_content">This application is designed to help NCER Students and it is free for everyone </string>
+</resources>
